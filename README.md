@@ -4,6 +4,7 @@
 ![Issues Open](https://img.shields.io/github/issues/javaspence/countdown-clock?style=plastic)
 ![Commit Activity](https://img.shields.io/github/commit-activity/w/javaspence/countdown-clock?style=plastic)
 ![Contributors](https://img.shields.io/github/contributors/javaspence/countdown-clock?style=plastic)
+![Project Version](https://img.shields.io/github/manifest-json/v/javaspence/countdown-clock?style=plastic)
 
 I made this because I thought it might be cool to do so. You can make short timers, and very long timers, all in the same place with them running in the background.
 

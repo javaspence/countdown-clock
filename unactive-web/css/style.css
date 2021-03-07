@@ -1,5 +1,7 @@
-/* Google Font "DotGothic16" right here: https://fonts.google.com/specimen/DotGothic16?preview.text_type=custom */
 @import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
 h1 {
  font-family: 'DotGothic16', sans-serif;
+}
+body {
+ background-color: #5fbed8;
 }
